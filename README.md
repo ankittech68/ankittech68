@@ -29,6 +29,8 @@ const ankit = {
 
 ## 📈 Contribution Timeline
 
+## 📊 Activity Graph
+
 [![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankittech68&theme=tokyo-night)](https://github.com/ankittech68)
 
 ---
