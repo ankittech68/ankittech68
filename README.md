@@ -1,5 +1,18 @@
 # 💫 About Me:
-🚀 AI/ML Enthusiast | Full Stack Developer  <br><br>🌍 Building intelligent solutions with AI along with modern web applications  <br>⚡ Focused on problem-solving, performance, and clean user experiences  <br><br>📚 Currently exploring:  <br>- Machine Learning & Deep Learning  <br>- Advanced Data Structures & Algorithms  <br>- Scalable and optimized web development  <br><br>💬 Ask me about:  <br>Python, React.js, DSA, Data Science, Web Development  
+const ankit = {
+  name:       "Ankit",
+  role:       "AI/ML Enthusiast & Full Stack Developer",
+  location:   "India 🇮🇳",
+  github:     "https://github.com/ankittech68",
+  linkedin:   "https://linkedin.com/in/ankittech68",
+  email:      "ankit.sholet158@gmail.com",
+
+  currentlyLearning: ["Machine Learning", "Deep Learning", "System Design", "Advanced DSA"],
+  interests:         ["Web Development", "AI Projects", "Data Science", "Open Source"],
+  askMeAbout:        ["React.js", "Python", "DSA", "Data Science"],
+
+  funFact: "I solve problems, optimize solutions, and keep leveling up 🚀"
+};
 
 
 ## 🌐 Socials:
