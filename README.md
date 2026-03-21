@@ -1,18 +1,20 @@
 # 💫 About Me:
+```javascript
 const ankit = {
-  name:       "Ankit",
-  role:       "AI/ML Enthusiast & Full Stack Developer",
-  location:   "India 🇮🇳",
-  github:     "https://github.com/ankittech68",
-  linkedin:   "https://linkedin.com/in/ankittech68",
-  email:      "ankit.sholet158@gmail.com",
+  name: "Ankit",
+  role: "AI/ML Enthusiast & Full Stack Developer",
+  location: "India 🇮🇳",
+  github: "https://github.com/ankittech68",
+  linkedin: "https://linkedin.com/in/ankittech68",
+  email: "ankit.sholet158@gmail.com",
 
   currentlyLearning: ["Machine Learning", "Deep Learning", "System Design", "Advanced DSA"],
-  interests:         ["Web Development", "AI Projects", "Data Science", "Open Source"],
-  askMeAbout:        ["React.js", "Python", "DSA", "Data Science"],
+  interests: ["Web Development", "AI Projects", "Data Science", "Open Source"],
+  askMeAbout: ["React.js", "Python", "DSA", "Data Science"],
 
   funFact: "I solve problems, optimize solutions, and keep leveling up 🚀"
 };
+```
 
 
 ## 🌐 Socials:
