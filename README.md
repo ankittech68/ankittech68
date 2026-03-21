@@ -27,6 +27,10 @@ const ankit = {
 ![](https://nirzak-streak-stats.vercel.app/?user=ankittech68&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankittech68&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 📈 Contribution Timeline
+
+![Timeline](https://github-timeline.vercel.app/api?username=ankittech68)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ankittech68&icon=0&color=0)](https://visitcount.itsvg.in)
 
