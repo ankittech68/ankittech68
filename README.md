@@ -2,13 +2,13 @@
 ```javascript
 const ankit = {
   name: "Ankit",
-  role: "AI/ML Enthusiast & Full Stack Developer",
+  role: "Software Developer & AI/ML Enthusiast",
   location: "India 🇮🇳",
   github: "https://github.com/ankittech68",
   linkedin: "https://linkedin.com/in/ankittech68",
   email: "ankit.sholet158@gmail.com",
 
-  currentlyLearning: ["Machine Learning", "Deep Learning", "System Design", "Advanced DSA"],
+  currentlyLearning: ["Machine Learning", "Deep Learning", "System Design", "DSA"],
   interests: ["Web Development", "AI Projects", "Data Science", "Open Source"],
   askMeAbout: ["React.js", "Python", "DSA", "Data Science"],
 
